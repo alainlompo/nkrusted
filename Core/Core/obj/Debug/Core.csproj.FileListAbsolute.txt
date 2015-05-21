@@ -1,0 +1,5 @@
+C:\Excelta\Business\NKrusted\Core\Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Excelta\Business\NKrusted\Core\Core\bin\Debug\Core.dll
+C:\Excelta\Business\NKrusted\Core\Core\bin\Debug\Core.pdb
+C:\Excelta\Business\NKrusted\Core\Core\obj\Debug\Core.dll
+C:\Excelta\Business\NKrusted\Core\Core\obj\Debug\Core.pdb

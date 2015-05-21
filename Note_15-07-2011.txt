@@ -1,0 +1,6 @@
+Create all the code to generate persistance class files from
+database
+
+Now we can give the database parameters to the software and
+it will generate all the "entities" classes
+and we can use any persistance manager to persist them

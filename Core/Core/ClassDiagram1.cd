@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Excelta.NKrusted.Core.ColumnAttribute">
+    <Position X="0.5" Y="1.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAIAAAAAABAACAAAAgAAAAAAQAAAAAACAAA=</HashCode>
+      <FileName>ColumnAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.NKrusted.Core.ConnectionAttribute" Collapsed="true">
+    <Position X="6.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAgAAAAAAAAAAAAAAAIACAAAAAAAAA=</HashCode>
+      <FileName>ConnectionAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.NKrusted.Core.ConnectionsManager">
+    <Position X="0.5" Y="8" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAABAEAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>ConnectionsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.NKrusted.Core.DataTableNotFoundException">
+    <Position X="5.25" Y="8.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataTableNotFoundException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.NKrusted.Core.PersistanceManager" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAABAAAAAAAIAAAEAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>PersistanceManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Excelta.NKrusted.Core.PrimaryKeyAttribute">
+    <Position X="11" Y="2.75" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAACAAAAgAAAAAAQAAAAAACAAA=</HashCode>
+      <FileName>PrimaryKeyAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.NKrusted.Core.PrimaryKeyException">
+    <Position X="10.5" Y="8.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PrimaryKeyException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.NKrusted.Core.TableAttribute">
+    <Position X="12.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>TableAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.NKrusted.Core.UnRegisteredConnectionException">
+    <Position X="4.75" Y="6.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnRegisteredConnectionException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excelta.NKrusted.Core.Examples.Employee">
+    <Position X="4.75" Y="1.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAAAAAAAAEAAEAAAAAAAAAIAAAACAAAAAAAAg=</HashCode>
+      <FileName>Examples\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Attribute" Collapsed="true">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="0.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Exception" Collapsed="true">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="Excelta.NKrusted.Core.PropertyInfosStruct">
+    <Position X="0.5" Y="12" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>PropertyInfosStruct.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Excelta.NKrusted.Core.IPersistanceController">
+    <Position X="9" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAABAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPersistanceController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Excelta.NKrusted.Core.DataTypes">
+    <Position X="6.75" Y="12" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAAQAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

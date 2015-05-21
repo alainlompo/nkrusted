@@ -1,0 +1,13 @@
+C:\Excelta\Business\NKrusted\Core\SilverPhone\Bin\Debug\ApplicationIcon.png
+C:\Excelta\Business\NKrusted\Core\SilverPhone\Bin\Debug\Background.png
+C:\Excelta\Business\NKrusted\Core\SilverPhone\Bin\Debug\SilverPhone.dll
+C:\Excelta\Business\NKrusted\Core\SilverPhone\Bin\Debug\SilverPhone.pdb
+C:\Excelta\Business\NKrusted\Core\SilverPhone\Bin\Debug\AppManifest.xaml
+C:\Excelta\Business\NKrusted\Core\SilverPhone\Bin\Debug\SilverPhone.xap
+C:\Excelta\Business\NKrusted\Core\SilverPhone\obj\Debug\ResolveAssemblyReference.cache
+C:\Excelta\Business\NKrusted\Core\SilverPhone\obj\Debug\App.g.cs
+C:\Excelta\Business\NKrusted\Core\SilverPhone\obj\Debug\MainPage.g.cs
+C:\Excelta\Business\NKrusted\Core\SilverPhone\obj\Debug\SilverPhone.g.resources
+C:\Excelta\Business\NKrusted\Core\SilverPhone\obj\Debug\SilverPhone.dll
+C:\Excelta\Business\NKrusted\Core\SilverPhone\obj\Debug\SilverPhone.pdb
+C:\Excelta\Business\NKrusted\Core\SilverPhone\obj\Debug\XapCacheFile.xml

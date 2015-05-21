@@ -1,0 +1,7 @@
+C:\Excelta\Business\NKrusted\Core\TestsConsole\bin\Debug\TestsConsole.exe
+C:\Excelta\Business\NKrusted\Core\TestsConsole\bin\Debug\TestsConsole.pdb
+C:\Excelta\Business\NKrusted\Core\TestsConsole\bin\Debug\Core.dll
+C:\Excelta\Business\NKrusted\Core\TestsConsole\bin\Debug\Core.pdb
+C:\Excelta\Business\NKrusted\Core\TestsConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Excelta\Business\NKrusted\Core\TestsConsole\obj\x86\Debug\TestsConsole.exe
+C:\Excelta\Business\NKrusted\Core\TestsConsole\obj\x86\Debug\TestsConsole.pdb

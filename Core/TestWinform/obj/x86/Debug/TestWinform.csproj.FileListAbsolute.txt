@@ -1,0 +1,12 @@
+C:\Excelta\Business\NKrusted\Core\TestWinform\bin\Debug\TestWinform.exe
+C:\Excelta\Business\NKrusted\Core\TestWinform\bin\Debug\TestWinform.pdb
+C:\Excelta\Business\NKrusted\Core\TestWinform\bin\Debug\Core.dll
+C:\Excelta\Business\NKrusted\Core\TestWinform\bin\Debug\Core.pdb
+C:\Excelta\Business\NKrusted\Core\TestWinform\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Excelta\Business\NKrusted\Core\TestWinform\obj\x86\Debug\TestWinform.Form1.resources
+C:\Excelta\Business\NKrusted\Core\TestWinform\obj\x86\Debug\TestWinform.Properties.Resources.resources
+C:\Excelta\Business\NKrusted\Core\TestWinform\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Excelta\Business\NKrusted\Core\TestWinform\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Excelta\Business\NKrusted\Core\TestWinform\obj\x86\Debug\TestWinform.exe
+C:\Excelta\Business\NKrusted\Core\TestWinform\obj\x86\Debug\TestWinform.pdb
+C:\Excelta\Business\NKrusted\Core\TestWinform\obj\x86\Debug\TestWinform.MetaDataSelector.resources
