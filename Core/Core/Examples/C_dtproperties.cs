@@ -6,7 +6,7 @@ using Excelta.NKrusted.Core;
 
 namespace NKrustedDAO
 { 
-[Connection("Server=LOMPO-PC\\SQL2000PE; initial catalog =NKRUSTEDDEMO;user id =sa; password=loverofmysoul","NKRUSTEDDEMO_con")]
+[Connection("Server=LOMPO-PC\\SQL2000PE; initial catalog =NKRUSTEDDEMO;user id =sa; password=mindandsoulpower","NKRUSTEDDEMO_con")]
 [Table("dtproperties")]
 public class C_dtproperties
 {
