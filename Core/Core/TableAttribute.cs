@@ -6,6 +6,7 @@ using System.Reflection;
 
 namespace Excelta.NKrusted.Core
 {
+	/* This class handles the mapping of an rdbms table */
     [AttributeUsage(AttributeTargets.Class)]
     public class TableAttribute:Attribute
     {
