@@ -23,7 +23,8 @@ namespace Excelta.NKrusted.Core
                 _currentIndex++;
             }
         }
-
+		
+		/* A basic connection's pool implementation with a Dictionary<String, SqlConnection> */
         public static SqlConnection Get(string name)
         {
             if (_connectionsDico.ContainsKey(name))
